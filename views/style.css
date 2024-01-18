@@ -1,0 +1,15 @@
+body
+{
+    font-family: serif, sans-serif;
+    background-color: #F8F0E3
+}
+
+img
+{
+    width: 500px;
+}
+
+p
+{
+    border: black 1px dashed;
+}
